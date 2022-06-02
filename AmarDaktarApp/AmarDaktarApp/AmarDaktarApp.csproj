@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Portable.BouncyCastle" Version="1.9.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AmarDaktar.BLL.Repositories\AmarDaktar.BLL.Contracts.csproj" />
+    <ProjectReference Include="..\AmarDaktar.DataBaseContext\AmarDaktar.DataBaseContext.csproj" />
+    <ProjectReference Include="..\AmarDaktar.IoCContainer\AmarDaktar.IoCContainer.csproj" />
+    <ProjectReference Include="..\AmarDaktar.Repositories.Abastractions\AmarDaktar.Repositories.Abastractions.csproj" />
+    <ProjectReference Include="..\AmarDaktarBase\AmarDaktarBase.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Images\" />
+  </ItemGroup>
+
+</Project>

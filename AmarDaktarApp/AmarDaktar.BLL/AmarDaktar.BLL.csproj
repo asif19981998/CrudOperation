@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.13.1" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.13.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AmarDaktar.BLL.Repositories\AmarDaktar.BLL.Contracts.csproj" />
+    <ProjectReference Include="..\AmarDaktar.Models\AmarDaktar.Models.csproj" />
+    <ProjectReference Include="..\AmarDaktar.Repositories.Abastractions\AmarDaktar.Repositories.Abastractions.csproj" />
+    <ProjectReference Include="..\AmarDaktarBase\AmarDaktarBase.csproj" />
+    <ProjectReference Include="..\Base\Base.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.BLL.Repositories\bin\Debug\net5.0\AmarDaktar.BLL.Repositories.deps.json
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.BLL.Repositories\bin\Debug\net5.0\AmarDaktar.BLL.Repositories.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.BLL.Repositories\bin\Debug\net5.0\ref\AmarDaktar.BLL.Repositories.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.BLL.Repositories\bin\Debug\net5.0\AmarDaktar.BLL.Repositories.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.BLL.Repositories\obj\Debug\net5.0\AmarDaktar.BLL.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.BLL.Repositories\obj\Debug\net5.0\AmarDaktar.BLL.Repositories.AssemblyInfoInputs.cache
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.BLL.Repositories\obj\Debug\net5.0\AmarDaktar.BLL.Repositories.AssemblyInfo.cs
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.BLL.Repositories\obj\Debug\net5.0\AmarDaktar.BLL.Repositories.csproj.CoreCompileInputs.cache
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.BLL.Repositories\obj\Debug\net5.0\AmarDaktar.BLL.Repositories.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.BLL.Repositories\obj\Debug\net5.0\ref\AmarDaktar.BLL.Repositories.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.BLL.Repositories\obj\Debug\net5.0\AmarDaktar.BLL.Repositories.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.BLL.Repositories\obj\Debug\net5.0\AmarDaktar.BLL.Repositories.csprojAssemblyReference.cache

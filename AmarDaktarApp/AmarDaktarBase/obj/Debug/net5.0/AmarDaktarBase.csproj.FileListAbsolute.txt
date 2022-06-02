@@ -1,0 +1,42 @@
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktarBase.deps.json
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktarBase.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\ref\AmarDaktarBase.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktarBase.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktar.Model.Contracts.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktar.Models.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktar.Repositories.Abastractions.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\Base.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktar.Repositories.Abastractions.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktar.Model.Contracts.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktar.Models.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\Base.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.GeneratedMSBuildEditorConfig.editorconfig
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.AssemblyInfoInputs.cache
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.AssemblyInfo.cs
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.csproj.CoreCompileInputs.cache
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.csproj.CopyComplete
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\ref\AmarDaktarBase.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.csproj.AssemblyReference.cache
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktarBase.deps.json
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktarBase.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\ref\AmarDaktarBase.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktarBase.pdb
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktar.Model.Contracts.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktar.Models.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktar.Repositories.Abastractions.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\Base.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktar.Repositories.Abastractions.pdb
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktar.Model.Contracts.pdb
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktar.Models.pdb
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\Base.pdb
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.csproj.AssemblyReference.cache
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.AssemblyInfoInputs.cache
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.AssemblyInfo.cs
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.csproj.CoreCompileInputs.cache
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.csproj.CopyComplete
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\ref\AmarDaktarBase.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.pdb

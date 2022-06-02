@@ -1,0 +1,88 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmarDaktarApp", "AmarDaktarApp\AmarDaktarApp.csproj", "{D73628AF-C7DE-4865-8E3E-031883BC2821}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmarDaktar.Repositories", "AmarDaktar.Repositories\AmarDaktar.Repositories.csproj", "{002DDFE1-D447-4AB7-BD14-1034915457B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmarDaktar.Repositories.Abastractions", "AmarDaktar.Repositories.Abastractions\AmarDaktar.Repositories.Abastractions.csproj", "{74D41727-BA07-4036-8B8D-08A134A0501B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{01063591-236B-45EC-8B6A-B3233C96C14C} = {01063591-236B-45EC-8B6A-B3233C96C14C}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmarDaktar.BLL", "AmarDaktar.BLL\AmarDaktar.BLL.csproj", "{5232FC81-1958-441B-A2F2-73665DCBBFBD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmarDaktar.BLL.Contracts", "AmarDaktar.BLL.Repositories\AmarDaktar.BLL.Contracts.csproj", "{01063591-236B-45EC-8B6A-B3233C96C14C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmarDaktar.DataBaseContext", "AmarDaktar.DataBaseContext\AmarDaktar.DataBaseContext.csproj", "{FE55C6C4-9AD4-45A4-8C5E-57216925E743}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmarDaktar.Models", "AmarDaktar.Models\AmarDaktar.Models.csproj", "{84A20276-8698-4CC5-A843-A4104E3127DF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmarDaktar.IoCContainer", "AmarDaktar.IoCContainer\AmarDaktar.IoCContainer.csproj", "{B975F493-064F-4CD1-AA64-551B8660B067}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Base", "Base\Base.csproj", "{6C4D280F-6F4E-4045-B481-AA561713406F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmarDaktar.Model.Contracts", "AmarDaktar.Model.Contracts\AmarDaktar.Model.Contracts.csproj", "{E484E38D-76C7-44AD-B38B-201ADF51B6DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmarDaktarBase", "AmarDaktarBase\AmarDaktarBase.csproj", "{D3409C3F-D44A-44D5-88C8-87D53A8BD45C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D73628AF-C7DE-4865-8E3E-031883BC2821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73628AF-C7DE-4865-8E3E-031883BC2821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D73628AF-C7DE-4865-8E3E-031883BC2821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73628AF-C7DE-4865-8E3E-031883BC2821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{002DDFE1-D447-4AB7-BD14-1034915457B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{002DDFE1-D447-4AB7-BD14-1034915457B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{002DDFE1-D447-4AB7-BD14-1034915457B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{002DDFE1-D447-4AB7-BD14-1034915457B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74D41727-BA07-4036-8B8D-08A134A0501B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D41727-BA07-4036-8B8D-08A134A0501B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D41727-BA07-4036-8B8D-08A134A0501B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D41727-BA07-4036-8B8D-08A134A0501B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5232FC81-1958-441B-A2F2-73665DCBBFBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5232FC81-1958-441B-A2F2-73665DCBBFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5232FC81-1958-441B-A2F2-73665DCBBFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5232FC81-1958-441B-A2F2-73665DCBBFBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01063591-236B-45EC-8B6A-B3233C96C14C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01063591-236B-45EC-8B6A-B3233C96C14C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01063591-236B-45EC-8B6A-B3233C96C14C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01063591-236B-45EC-8B6A-B3233C96C14C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE55C6C4-9AD4-45A4-8C5E-57216925E743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE55C6C4-9AD4-45A4-8C5E-57216925E743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE55C6C4-9AD4-45A4-8C5E-57216925E743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE55C6C4-9AD4-45A4-8C5E-57216925E743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84A20276-8698-4CC5-A843-A4104E3127DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84A20276-8698-4CC5-A843-A4104E3127DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84A20276-8698-4CC5-A843-A4104E3127DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84A20276-8698-4CC5-A843-A4104E3127DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B975F493-064F-4CD1-AA64-551B8660B067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B975F493-064F-4CD1-AA64-551B8660B067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B975F493-064F-4CD1-AA64-551B8660B067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B975F493-064F-4CD1-AA64-551B8660B067}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C4D280F-6F4E-4045-B481-AA561713406F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C4D280F-6F4E-4045-B481-AA561713406F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C4D280F-6F4E-4045-B481-AA561713406F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C4D280F-6F4E-4045-B481-AA561713406F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E484E38D-76C7-44AD-B38B-201ADF51B6DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E484E38D-76C7-44AD-B38B-201ADF51B6DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E484E38D-76C7-44AD-B38B-201ADF51B6DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E484E38D-76C7-44AD-B38B-201ADF51B6DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3409C3F-D44A-44D5-88C8-87D53A8BD45C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3409C3F-D44A-44D5-88C8-87D53A8BD45C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3409C3F-D44A-44D5-88C8-87D53A8BD45C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3409C3F-D44A-44D5-88C8-87D53A8BD45C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {837E8ED0-9BED-4CDA-BE21-BCE5E2CE48D2}
+	EndGlobalSection
+EndGlobal

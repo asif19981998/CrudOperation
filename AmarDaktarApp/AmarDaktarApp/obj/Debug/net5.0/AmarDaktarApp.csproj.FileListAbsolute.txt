@@ -1,0 +1,180 @@
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\appsettings.Development.json
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\appsettings.json
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktarApp.exe
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktarApp.deps.json
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktarApp.runtimeconfig.json
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktarApp.runtimeconfig.dev.json
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktarApp.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\ref\AmarDaktarApp.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktarApp.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Humanizer.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.BLL.Contracts.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.BLL.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.DataBaseContext.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.IoCContainer.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.Model.Contracts.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.Models.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.Repositories.Abastractions.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.Repositories.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktarBase.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Base.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.BLL.Contracts.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.DataBaseContext.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.IoCContainer.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.Repositories.Abastractions.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktarBase.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.BLL.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.Model.Contracts.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.Models.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.Repositories.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Base.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\AmarDaktarApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\AmarDaktarApp.AssemblyInfoInputs.cache
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\AmarDaktarApp.AssemblyInfo.cs
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\AmarDaktarApp.csproj.CoreCompileInputs.cache
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\AmarDaktarApp.MvcApplicationPartsAssemblyInfo.cs
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\AmarDaktarApp.MvcApplicationPartsAssemblyInfo.cache
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\staticwebassets\AmarDaktarApp.StaticWebAssets.Manifest.cache
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\staticwebassets\AmarDaktarApp.StaticWebAssets.xml
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\scopedcss\bundle\AmarDaktarApp.styles.css
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\AmarDaktarApp.RazorTargetAssemblyInfo.cache
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\AmarDaktarApp.csproj.CopyComplete
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\AmarDaktarApp.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\ref\AmarDaktarApp.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\AmarDaktarApp.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\AmarDaktarApp.genruntimeconfig.cache
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\AmarDaktarApp.csproj.AssemblyReference.cache
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AutoMapper.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\System.IO.Pipelines.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\BCrypt.Net-Next.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\appsettings.Development.json
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\appsettings.json
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktarApp.exe
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktarApp.deps.json
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktarApp.runtimeconfig.json
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktarApp.runtimeconfig.dev.json
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktarApp.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\ref\AmarDaktarApp.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktarApp.pdb
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AutoMapper.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\BCrypt.Net-Next.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Humanizer.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\System.IO.Pipelines.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.BLL.Contracts.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.BLL.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.DataBaseContext.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.IoCContainer.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.Model.Contracts.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.Models.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.Repositories.Abastractions.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.Repositories.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktarBase.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Base.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.BLL.Contracts.pdb
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.DataBaseContext.pdb
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.IoCContainer.pdb
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.Repositories.Abastractions.pdb
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktarBase.pdb
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.BLL.pdb
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.Model.Contracts.pdb
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.Models.pdb
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\AmarDaktar.Repositories.pdb
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\bin\Debug\net5.0\Base.pdb
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\AmarDaktarApp.csproj.AssemblyReference.cache
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\AmarDaktarApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\AmarDaktarApp.AssemblyInfoInputs.cache
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\AmarDaktarApp.AssemblyInfo.cs
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\AmarDaktarApp.csproj.CoreCompileInputs.cache
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\AmarDaktarApp.MvcApplicationPartsAssemblyInfo.cs
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\AmarDaktarApp.MvcApplicationPartsAssemblyInfo.cache
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\staticwebassets\AmarDaktarApp.StaticWebAssets.Manifest.cache
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\staticwebassets\AmarDaktarApp.StaticWebAssets.xml
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\scopedcss\bundle\AmarDaktarApp.styles.css
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\AmarDaktarApp.RazorTargetAssemblyInfo.cache
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\AmarDaktarApp.csproj.CopyComplete
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\AmarDaktarApp.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\ref\AmarDaktarApp.dll
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\AmarDaktarApp.pdb
+F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktarApp\obj\Debug\net5.0\AmarDaktarApp.genruntimeconfig.cache

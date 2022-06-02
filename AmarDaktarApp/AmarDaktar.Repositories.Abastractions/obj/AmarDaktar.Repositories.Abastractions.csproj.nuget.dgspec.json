@@ -1,0 +1,261 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\AmarDaktar.Repositories.Abastractions\\AmarDaktar.Repositories.Abastractions.csproj": {}
+  },
+  "projects": {
+    "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\AmarDaktar.Model.Contracts\\AmarDaktar.Model.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\AmarDaktar.Model.Contracts\\AmarDaktar.Model.Contracts.csproj",
+        "projectName": "AmarDaktar.Model.Contracts",
+        "projectPath": "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\AmarDaktar.Model.Contracts\\AmarDaktar.Model.Contracts.csproj",
+        "packagesPath": "C:\\Users\\RAKIB\\.nuget\\packages\\",
+        "outputPath": "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\AmarDaktar.Model.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RAKIB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\AmarDaktar.Models\\AmarDaktar.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\AmarDaktar.Models\\AmarDaktar.Models.csproj",
+        "projectName": "AmarDaktar.Models",
+        "projectPath": "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\AmarDaktar.Models\\AmarDaktar.Models.csproj",
+        "packagesPath": "C:\\Users\\RAKIB\\.nuget\\packages\\",
+        "outputPath": "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\AmarDaktar.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RAKIB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\AmarDaktar.Model.Contracts\\AmarDaktar.Model.Contracts.csproj": {
+                "projectPath": "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\AmarDaktar.Model.Contracts\\AmarDaktar.Model.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\AmarDaktar.Repositories.Abastractions\\AmarDaktar.Repositories.Abastractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\AmarDaktar.Repositories.Abastractions\\AmarDaktar.Repositories.Abastractions.csproj",
+        "projectName": "AmarDaktar.Repositories.Abastractions",
+        "projectPath": "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\AmarDaktar.Repositories.Abastractions\\AmarDaktar.Repositories.Abastractions.csproj",
+        "packagesPath": "C:\\Users\\RAKIB\\.nuget\\packages\\",
+        "outputPath": "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\AmarDaktar.Repositories.Abastractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RAKIB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\AmarDaktar.Models\\AmarDaktar.Models.csproj": {
+                "projectPath": "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\AmarDaktar.Models\\AmarDaktar.Models.csproj"
+              },
+              "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\Base\\Base.csproj": {
+                "projectPath": "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\Base\\Base.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\Base\\Base.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\Base\\Base.csproj",
+        "projectName": "Base",
+        "projectPath": "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\Base\\Base.csproj",
+        "packagesPath": "C:\\Users\\RAKIB\\.nuget\\packages\\",
+        "outputPath": "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\Base\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RAKIB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\AmarDaktar.Model.Contracts\\AmarDaktar.Model.Contracts.csproj": {
+                "projectPath": "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\AmarDaktar.Model.Contracts\\AmarDaktar.Model.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
