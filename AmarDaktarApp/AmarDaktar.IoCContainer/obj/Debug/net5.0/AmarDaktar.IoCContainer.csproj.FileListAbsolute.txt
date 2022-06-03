@@ -60,3 +60,34 @@ F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktar.IoCCont
 F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktar.IoCContainer\obj\Debug\net5.0\AmarDaktar.IoCContainer.dll
 F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktar.IoCContainer\obj\Debug\net5.0\ref\AmarDaktar.IoCContainer.dll
 F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktar.IoCContainer\obj\Debug\net5.0\AmarDaktar.IoCContainer.pdb
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.IoCContainer\bin\Debug\net5.0\AmarDaktar.IoCContainer.deps.json
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.IoCContainer\bin\Debug\net5.0\AmarDaktar.IoCContainer.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.IoCContainer\bin\Debug\net5.0\ref\AmarDaktar.IoCContainer.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.IoCContainer\bin\Debug\net5.0\AmarDaktar.IoCContainer.pdb
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.IoCContainer\bin\Debug\net5.0\AmarDaktar.BLL.Contracts.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.IoCContainer\bin\Debug\net5.0\AmarDaktar.BLL.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.IoCContainer\bin\Debug\net5.0\AmarDaktar.DataBaseContext.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.IoCContainer\bin\Debug\net5.0\AmarDaktar.Model.Contracts.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.IoCContainer\bin\Debug\net5.0\AmarDaktar.Models.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.IoCContainer\bin\Debug\net5.0\AmarDaktar.Repositories.Abastractions.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.IoCContainer\bin\Debug\net5.0\AmarDaktar.Repositories.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.IoCContainer\bin\Debug\net5.0\AmarDaktarBase.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.IoCContainer\bin\Debug\net5.0\Base.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.IoCContainer\bin\Debug\net5.0\AmarDaktar.BLL.Contracts.pdb
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.IoCContainer\bin\Debug\net5.0\AmarDaktar.BLL.pdb
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.IoCContainer\bin\Debug\net5.0\AmarDaktar.Repositories.pdb
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.IoCContainer\bin\Debug\net5.0\AmarDaktar.DataBaseContext.pdb
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.IoCContainer\bin\Debug\net5.0\AmarDaktar.Model.Contracts.pdb
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.IoCContainer\bin\Debug\net5.0\AmarDaktar.Models.pdb
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.IoCContainer\bin\Debug\net5.0\AmarDaktar.Repositories.Abastractions.pdb
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.IoCContainer\bin\Debug\net5.0\AmarDaktarBase.pdb
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.IoCContainer\bin\Debug\net5.0\Base.pdb
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.IoCContainer\obj\Debug\net5.0\AmarDaktar.IoCContainer.csproj.AssemblyReference.cache
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.IoCContainer\obj\Debug\net5.0\AmarDaktar.IoCContainer.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.IoCContainer\obj\Debug\net5.0\AmarDaktar.IoCContainer.AssemblyInfoInputs.cache
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.IoCContainer\obj\Debug\net5.0\AmarDaktar.IoCContainer.AssemblyInfo.cs
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.IoCContainer\obj\Debug\net5.0\AmarDaktar.IoCContainer.csproj.CoreCompileInputs.cache
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.IoCContainer\obj\Debug\net5.0\AmarDaktar.IoCContainer.csproj.CopyComplete
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.IoCContainer\obj\Debug\net5.0\AmarDaktar.IoCContainer.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.IoCContainer\obj\Debug\net5.0\ref\AmarDaktar.IoCContainer.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.IoCContainer\obj\Debug\net5.0\AmarDaktar.IoCContainer.pdb

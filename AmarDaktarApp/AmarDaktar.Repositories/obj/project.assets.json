@@ -6650,19 +6650,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\RAKIB\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\AmarDaktar.Repositories\\AmarDaktar.Repositories.csproj",
+      "projectUniqueName": "E:\\C Sharp Practise Projects\\Crud\\CrudOperation\\AmarDaktarApp\\AmarDaktar.Repositories\\AmarDaktar.Repositories.csproj",
       "projectName": "AmarDaktar.Repositories",
-      "projectPath": "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\AmarDaktar.Repositories\\AmarDaktar.Repositories.csproj",
-      "packagesPath": "C:\\Users\\RAKIB\\.nuget\\packages\\",
-      "outputPath": "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\AmarDaktar.Repositories\\obj\\",
+      "projectPath": "E:\\C Sharp Practise Projects\\Crud\\CrudOperation\\AmarDaktarApp\\AmarDaktar.Repositories\\AmarDaktar.Repositories.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "E:\\C Sharp Practise Projects\\Crud\\CrudOperation\\AmarDaktarApp\\AmarDaktar.Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\RAKIB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6676,11 +6676,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\AmarDaktar.DataBaseContext\\AmarDaktar.DataBaseContext.csproj": {
-              "projectPath": "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\AmarDaktar.DataBaseContext\\AmarDaktar.DataBaseContext.csproj"
+            "E:\\C Sharp Practise Projects\\Crud\\CrudOperation\\AmarDaktarApp\\AmarDaktar.DataBaseContext\\AmarDaktar.DataBaseContext.csproj": {
+              "projectPath": "E:\\C Sharp Practise Projects\\Crud\\CrudOperation\\AmarDaktarApp\\AmarDaktar.DataBaseContext\\AmarDaktar.DataBaseContext.csproj"
             },
-            "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\AmarDaktar.Repositories.Abastractions\\AmarDaktar.Repositories.Abastractions.csproj": {
-              "projectPath": "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\AmarDaktar.Repositories.Abastractions\\AmarDaktar.Repositories.Abastractions.csproj"
+            "E:\\C Sharp Practise Projects\\Crud\\CrudOperation\\AmarDaktarApp\\AmarDaktar.Repositories.Abastractions\\AmarDaktar.Repositories.Abastractions.csproj": {
+              "projectPath": "E:\\C Sharp Practise Projects\\Crud\\CrudOperation\\AmarDaktarApp\\AmarDaktar.Repositories.Abastractions\\AmarDaktar.Repositories.Abastractions.csproj"
             }
           }
         }
@@ -6709,7 +6709,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
       }
     }
   }

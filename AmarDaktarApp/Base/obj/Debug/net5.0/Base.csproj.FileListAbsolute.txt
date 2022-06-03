@@ -34,3 +34,21 @@ F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\Base\obj\Debug\net
 F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\Base\obj\Debug\net5.0\ref\Base.dll
 F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\Base\obj\Debug\net5.0\Base.pdb
 F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\Base\obj\Debug\net5.0\Base.genruntimeconfig.cache
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\Base\bin\Debug\net5.0\Base.deps.json
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\Base\bin\Debug\net5.0\Base.runtimeconfig.json
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\Base\bin\Debug\net5.0\Base.runtimeconfig.dev.json
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\Base\bin\Debug\net5.0\Base.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\Base\bin\Debug\net5.0\ref\Base.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\Base\bin\Debug\net5.0\Base.pdb
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\Base\bin\Debug\net5.0\AmarDaktar.Model.Contracts.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\Base\bin\Debug\net5.0\AmarDaktar.Model.Contracts.pdb
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\Base\obj\Debug\net5.0\Base.csproj.AssemblyReference.cache
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\Base\obj\Debug\net5.0\Base.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\Base\obj\Debug\net5.0\Base.AssemblyInfoInputs.cache
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\Base\obj\Debug\net5.0\Base.AssemblyInfo.cs
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\Base\obj\Debug\net5.0\Base.csproj.CoreCompileInputs.cache
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\Base\obj\Debug\net5.0\Base.csproj.CopyComplete
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\Base\obj\Debug\net5.0\Base.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\Base\obj\Debug\net5.0\ref\Base.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\Base\obj\Debug\net5.0\Base.pdb
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\Base\obj\Debug\net5.0\Base.genruntimeconfig.cache

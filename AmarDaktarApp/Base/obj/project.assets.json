@@ -4128,19 +4128,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\RAKIB\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\Base\\Base.csproj",
+      "projectUniqueName": "E:\\C Sharp Practise Projects\\Crud\\CrudOperation\\AmarDaktarApp\\Base\\Base.csproj",
       "projectName": "Base",
-      "projectPath": "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\Base\\Base.csproj",
-      "packagesPath": "C:\\Users\\RAKIB\\.nuget\\packages\\",
-      "outputPath": "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\Base\\obj\\",
+      "projectPath": "E:\\C Sharp Practise Projects\\Crud\\CrudOperation\\AmarDaktarApp\\Base\\Base.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "E:\\C Sharp Practise Projects\\Crud\\CrudOperation\\AmarDaktarApp\\Base\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\RAKIB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4154,8 +4154,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\AmarDaktar.Model.Contracts\\AmarDaktar.Model.Contracts.csproj": {
-              "projectPath": "F:\\Rakib,IT\\P. Project\\amardaktar\\AmarDaktarApp\\AmarDaktarApp\\AmarDaktar.Model.Contracts\\AmarDaktar.Model.Contracts.csproj"
+            "E:\\C Sharp Practise Projects\\Crud\\CrudOperation\\AmarDaktarApp\\AmarDaktar.Model.Contracts\\AmarDaktar.Model.Contracts.csproj": {
+              "projectPath": "E:\\C Sharp Practise Projects\\Crud\\CrudOperation\\AmarDaktarApp\\AmarDaktar.Model.Contracts\\AmarDaktar.Model.Contracts.csproj"
             }
           }
         }
@@ -4200,7 +4200,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
       }
     }
   }

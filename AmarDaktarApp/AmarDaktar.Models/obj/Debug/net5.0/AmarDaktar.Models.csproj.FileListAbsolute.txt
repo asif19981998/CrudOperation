@@ -28,3 +28,18 @@ F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktar.Models\
 F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktar.Models\obj\Debug\net5.0\AmarDaktar.Models.dll
 F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktar.Models\obj\Debug\net5.0\ref\AmarDaktar.Models.dll
 F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktar.Models\obj\Debug\net5.0\AmarDaktar.Models.pdb
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Models\bin\Debug\net5.0\AmarDaktar.Models.deps.json
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Models\bin\Debug\net5.0\AmarDaktar.Models.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Models\bin\Debug\net5.0\ref\AmarDaktar.Models.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Models\bin\Debug\net5.0\AmarDaktar.Models.pdb
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Models\bin\Debug\net5.0\AmarDaktar.Model.Contracts.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Models\bin\Debug\net5.0\AmarDaktar.Model.Contracts.pdb
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Models\obj\Debug\net5.0\AmarDaktar.Models.csproj.AssemblyReference.cache
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Models\obj\Debug\net5.0\AmarDaktar.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Models\obj\Debug\net5.0\AmarDaktar.Models.AssemblyInfoInputs.cache
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Models\obj\Debug\net5.0\AmarDaktar.Models.AssemblyInfo.cs
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Models\obj\Debug\net5.0\AmarDaktar.Models.csproj.CoreCompileInputs.cache
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Models\obj\Debug\net5.0\AmarDaktar.Models.csproj.CopyComplete
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Models\obj\Debug\net5.0\AmarDaktar.Models.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Models\obj\Debug\net5.0\ref\AmarDaktar.Models.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Models\obj\Debug\net5.0\AmarDaktar.Models.pdb

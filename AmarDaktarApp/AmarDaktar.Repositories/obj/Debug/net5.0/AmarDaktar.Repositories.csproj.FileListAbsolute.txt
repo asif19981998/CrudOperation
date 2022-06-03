@@ -44,3 +44,26 @@ F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktar.Reposit
 F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktar.Repositories\obj\Debug\net5.0\AmarDaktar.Repositories.dll
 F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktar.Repositories\obj\Debug\net5.0\ref\AmarDaktar.Repositories.dll
 F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktar.Repositories\obj\Debug\net5.0\AmarDaktar.Repositories.pdb
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Repositories\bin\Debug\net5.0\AmarDaktar.Repositories.deps.json
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Repositories\bin\Debug\net5.0\AmarDaktar.Repositories.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Repositories\bin\Debug\net5.0\ref\AmarDaktar.Repositories.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Repositories\bin\Debug\net5.0\AmarDaktar.Repositories.pdb
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Repositories\bin\Debug\net5.0\AmarDaktar.DataBaseContext.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Repositories\bin\Debug\net5.0\AmarDaktar.Model.Contracts.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Repositories\bin\Debug\net5.0\AmarDaktar.Models.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Repositories\bin\Debug\net5.0\AmarDaktar.Repositories.Abastractions.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Repositories\bin\Debug\net5.0\Base.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Repositories\bin\Debug\net5.0\AmarDaktar.DataBaseContext.pdb
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Repositories\bin\Debug\net5.0\AmarDaktar.Repositories.Abastractions.pdb
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Repositories\bin\Debug\net5.0\AmarDaktar.Model.Contracts.pdb
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Repositories\bin\Debug\net5.0\AmarDaktar.Models.pdb
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Repositories\bin\Debug\net5.0\Base.pdb
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Repositories\obj\Debug\net5.0\AmarDaktar.Repositories.csproj.AssemblyReference.cache
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Repositories\obj\Debug\net5.0\AmarDaktar.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Repositories\obj\Debug\net5.0\AmarDaktar.Repositories.AssemblyInfoInputs.cache
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Repositories\obj\Debug\net5.0\AmarDaktar.Repositories.AssemblyInfo.cs
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Repositories\obj\Debug\net5.0\AmarDaktar.Repositories.csproj.CoreCompileInputs.cache
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Repositories\obj\Debug\net5.0\AmarDaktar.Repositories.csproj.CopyComplete
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Repositories\obj\Debug\net5.0\AmarDaktar.Repositories.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Repositories\obj\Debug\net5.0\ref\AmarDaktar.Repositories.dll
+E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Repositories\obj\Debug\net5.0\AmarDaktar.Repositories.pdb

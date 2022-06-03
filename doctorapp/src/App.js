@@ -2,15 +2,32 @@ import logo from './logo.svg';
 import './App.css';
 
 import { ToastProvider } from 'react-toast-notifications';
-import DoctorAdd from './components/doctor/DoctorCreate/doctorCreate';
+
 import DoctorList from './components/doctor/DoctorList/doctorList';
+import MailCreate from './components/mailSender/MailCreate/MailCreate';
+import Navbar from './components/navbar/navBar';
+import {Routes,Route, BrowserRouter} from "react-router-dom"
+import MailSender from './components/mailSender/MailSenderModel';
 
 function App() {
   return (
     <div className="App">
       <ToastProvider>
-       {/* <DoctorAdd/> */}
-       <DoctorList/>
+       {/* <DoctorList/>
+      
+       <MailCreate/> */}
+    
+    
+      <BrowserRouter>
+      <Navbar/>
+      <Routes>
+        
+        <Route path="/doctorList" element={<DoctorList />}/>
+        <Route path="/mailSender" element={<MailCreate />}>
+       
+        </Route>
+      </Routes>
+    </BrowserRouter>
       </ToastProvider>
      
     </div>

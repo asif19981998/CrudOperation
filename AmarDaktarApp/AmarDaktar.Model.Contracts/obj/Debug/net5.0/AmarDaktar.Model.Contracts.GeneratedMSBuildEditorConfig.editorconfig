@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = AmarDaktar.Model.Contracts
-build_property.ProjectDir = F:\Rakib,IT\P. Project\amardaktar\AmarDaktarApp\AmarDaktarApp\AmarDaktar.Model.Contracts\
+build_property.ProjectDir = E:\C Sharp Practise Projects\Crud\CrudOperation\AmarDaktarApp\AmarDaktar.Model.Contracts\
