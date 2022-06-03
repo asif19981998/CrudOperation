@@ -118,9 +118,11 @@ const DoctorAdd = ({ ...props }) => {
         validate(fieldsValue)
     }
     return (<>
-      
+        
         <div className='container'>
-       
+        <div className='card'>
+        <h2 style={{margin:'auto',padding:'8px'}}>Doctor Create</h2>
+        </div>
         <div className='row'>
             
                 <form >

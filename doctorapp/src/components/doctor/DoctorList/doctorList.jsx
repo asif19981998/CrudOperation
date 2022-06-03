@@ -46,7 +46,11 @@ const DoctorList = () => {
               <DoctorAdd {...({ currentId, setCurrentId,doctorList })} />
           </div>
           <div className='col-md-8'>
-            <table className="table table-striped">
+            <div className='card'>
+            <h2 style={{margin:'auto',padding:'8px'}}>Doctor List</h2>
+            </div>
+         
+          <table className="table table-striped">
       <thead>
         <tr>
           <th>Name</th>
