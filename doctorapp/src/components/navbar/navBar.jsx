@@ -13,7 +13,7 @@ function Navbar() {
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
         
-        <Link to="/doctorList">
+        <Link to="/">
         <a class="nav-link" >Doctor List</a>
         </Link>
       </li>
