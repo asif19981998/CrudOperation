@@ -22,7 +22,7 @@ function App() {
       <Navbar/>
       <Routes>
         
-        <Route path="/doctorList" element={<DoctorList />}/>
+        <Route path="/" element={<DoctorList />}/>
         <Route path="/mailSender" element={<MailCreate />}>
        
         </Route>
